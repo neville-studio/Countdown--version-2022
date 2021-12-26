@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: com.XuPenglife.countdown.MainActivity
+SplashScreen-Image: splash.gif
